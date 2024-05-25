@@ -1,6 +1,6 @@
-# Android device tree for benesse a05bd (a05bd)
+# Android device tree for benesse a05ba (a05ba)
 
-チャレンジパッドneo用TWRPデバイスツリーです。
+チャレンジパッドnext用TWRPデバイスツリーです。
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
