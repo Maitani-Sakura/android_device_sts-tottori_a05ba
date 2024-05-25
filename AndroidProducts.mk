@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_a05bd.mk
+    $(LOCAL_DIR)/omni_a05ba.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_a05bd-user \
-    omni_a05bd-userdebug \
-    omni_a05bd-eng
+    omni_a05ba-user \
+    omni_a05ba-userdebug \
+    omni_a05ba-eng

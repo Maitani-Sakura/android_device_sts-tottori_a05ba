@@ -8,11 +8,11 @@ on:
 env:
   MANIFEST_URL: 'https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni'
   MANIFEST_BRANCH: 'twrp-9.0'
-  DEVICE_TREE_URL: 'https://github.com/mouseos/android_device_sts-tottori_a05bd'
+  DEVICE_TREE_URL: 'https://github.com/Maitani-Sakura/android_device_sts-tottori_a05ba'
   DEVICE_TREE_BRANCH: 'main'
-  DEVICE_PATH: 'device/sts/a05bd'
-  DEVICE_NAME: 'a05bd'
-  MAKEFILE_NAME: 'omni_a05bd'
+  DEVICE_PATH: 'device/sts/a05ba'
+  DEVICE_NAME: 'a05ba'
+  MAKEFILE_NAME: 'omni_a05ba'
   BUILD_TARGET: 'recovery'
   # COMMON_TREE_URLとCOMMON_PATHを必要に応じて指定してください
 
